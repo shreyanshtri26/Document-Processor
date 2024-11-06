@@ -2,7 +2,7 @@
 
 ## Project Structure
 ```
-document-extractor/
+document-processor/
 ├── client/                 # Frontend React application
 │   ├── public/
 │   │   └── index.html
